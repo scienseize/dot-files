@@ -3,7 +3,7 @@
 Managed using GNU Stow.
 
 **Directory structure:**
-
+```
 dotfiles/
 ├── .config/
 │   └── tmux/
@@ -11,3 +11,4 @@ dotfiles/
 ├── fastfetch/
 ├── ghostty/
 └── nvim/
+```
