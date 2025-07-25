@@ -1,3 +1,5 @@
+# Mac Setup
+
 ## 📁 Dotfiles & Config
 
 Managed using GNU Stow.
